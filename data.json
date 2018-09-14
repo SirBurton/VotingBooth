@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Sir Burton",
+    "votes": 19,
+    "cuts": [
+      [
+        "Mullet",
+        10
+      ],
+      [
+        "Mowhawk",
+        2
+      ],
+      [
+        "Macklemore",
+        0
+      ],
+      [
+        "Bowlcut",
+        7
+      ],
+      [
+        "Flattop",
+        0
+      ]
+    ]
+  },
+  {
+    "name": "Someone Else",
+    "votes": 12,
+    "cuts": [
+      [
+        "Short",
+        4
+      ],
+      [
+        "Curley",
+        4
+      ],
+      [
+        "Liberty Spikes",
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Other Teacher",
+    "votes": 51,
+    "cuts": [
+      [
+        "Blue",
+        21
+      ],
+      [
+        "Pixie",
+        7
+      ],
+      [
+        "Curley",
+        6
+      ],
+      [
+        "Liberty Spikes",
+        17
+      ]
+    ]
+  }
+]
