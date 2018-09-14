@@ -18,11 +18,10 @@ def writeData(data):
 
 
 pygame.init()
-width = 00
-height = 00
+width = 1920
+height = 1080
 bground = (30,30,30)
 window = pygame.display.set_mode((width,height),pygame.FULLSCREEN)
-#mainDisplay = pygame.display.set_mode((width,height))
 height = pygame.display.Info().current_h
 width = pygame.display.Info().current_w
 pygame.display.set_caption('Racer Registration')
@@ -76,7 +75,7 @@ while running:
         votes = 0
         for j, cut in enumerate(teacher['cuts']):
             x = 300+300*j
-            percent = cut[1]/teacher['votes']
+            percent = cut[1]/max(teacher['votes'],1)
             if button(cut[0]+': '+str(cut[1]),x,y,250,50,
                       ((1-percent)*255,percent*255,0),
                       (100,100,255)):

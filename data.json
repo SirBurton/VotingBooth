@@ -1,15 +1,15 @@
 [
   {
     "name": "Sir Burton",
-    "votes": 19,
+    "votes": 0,
     "cuts": [
       [
         "Mullet",
-        10
+        0
       ],
       [
         "Mowhawk",
-        2
+        0
       ],
       [
         "Macklemore",
@@ -17,7 +17,7 @@
       ],
       [
         "Bowlcut",
-        7
+        0
       ],
       [
         "Flattop",
@@ -26,42 +26,206 @@
     ]
   },
   {
-    "name": "Someone Else",
-    "votes": 12,
+    "name": "Jean Sutterfield",
+    "votes": 0,
     "cuts": [
       [
         "Short",
-        4
+        0
       ],
       [
         "Curley",
-        4
+        0
       ],
       [
         "Liberty Spikes",
-        4
+        0
+      ],
+	  [
+        "Blue Tips",
+        0
       ]
     ]
   },
   {
-    "name": "Other Teacher",
-    "votes": 51,
+    "name": "Trevor Huish",
+    "votes": 0,
     "cuts": [
       [
         "Blue",
-        21
+        0
       ],
       [
-        "Pixie",
-        7
+        "Green",
+        0
       ],
       [
-        "Curley",
-        6
+        "Red",
+        0
       ],
       [
-        "Liberty Spikes",
-        17
+        "Black",
+        0
+      ],
+      [
+        "Bleached",
+        0
+      ]
+    ]
+  },
+  {
+    "name": "Serena Cofer",
+    "votes": 0,
+    "cuts": [
+      [
+        "One",
+        0
+      ],
+      [
+        "Two",
+        0
+      ],
+      [
+        "Three",
+        0
+      ],
+      [
+        "Four",
+        0
+      ],
+      [
+        "Five",
+        0
+      ]
+    ]
+  },
+  {
+    "name": "Taylor Bly",
+    "votes": 0,
+    "cuts": [
+      [
+        "One",
+        0
+      ],
+      [
+        "Two",
+        0
+      ],
+      [
+        "Three",
+        0
+      ],
+      [
+        "Four",
+        0
+      ],
+      [
+        "Five",
+        0
+      ]
+    ]
+  },
+  {
+    "name": "Mike Ashton",
+    "votes": 0,
+    "cuts": [
+      [
+        "One",
+        0
+      ],
+      [
+        "Two",
+        0
+      ],
+      [
+        "Three",
+        0
+      ],
+      [
+        "Four",
+        0
+      ],
+      [
+        "Five",
+        0
+      ]
+    ]
+  },
+  {
+    "name": "Coach K",
+    "votes": 0,
+    "cuts": [
+      [
+        "One",
+        0
+      ],
+      [
+        "Two",
+        0
+      ],
+      [
+        "Three",
+        0
+      ],
+      [
+        "Four",
+        0
+      ],
+      [
+        "Five",
+        0
+      ]
+    ]
+  },
+  {
+    "name": "Kasey Aposhian",
+    "votes": 0,
+    "cuts": [
+      [
+        "Purple",
+        0
+      ],
+      [
+        "Pink",
+        0
+      ],
+      [
+        "Turquoise",
+        0
+      ],
+      [
+        "Green",
+        0
+      ],
+      [
+        "Red",
+        0
+      ]
+    ]
+  },
+  {
+    "name": "Janae Powell",
+    "votes": 0,
+    "cuts": [
+      [
+        "One",
+        0
+      ],
+      [
+        "Two",
+        0
+      ],
+      [
+        "Three",
+        0
+      ],
+      [
+        "Four",
+        0
+      ],
+      [
+        "Five",
+        0
       ]
     ]
   }
