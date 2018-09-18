@@ -20,7 +20,6 @@ def writeData(data):
 pygame.init()
 width = 1920
 height = 1080
-bground = (30,30,30)
 window = pygame.display.set_mode((width,height),pygame.FULLSCREEN)
 height = pygame.display.Info().current_h
 width = pygame.display.Info().current_w
@@ -28,7 +27,8 @@ pygame.display.set_caption('Racer Registration')
 clock = pygame.time.Clock()
 
 textFont  = pygame.font.Font(pygame.font.match_font("courier"),24)
-nameFont  = pygame.font.Font(pygame.font.match_font("Impact"),42)
+nameFont  = pygame.font.Font(pygame.font.match_font("Impact"),40)
+titleFont  = pygame.font.Font(pygame.font.match_font("Times New Roman"),64)
 
 pygame.mixer.init()
 coin = pygame.mixer.Sound("smb_coin.wav")
@@ -58,6 +58,12 @@ running = True
 while running:
 
     window.fill((0,0,0))
+
+    titleText = titleFont.render('Robotics Haircut/style Fundraiser', True, (255,255,255))
+    titleRect = titleText.get_rect()
+    titleRect.center = (960,52)
+    window.blit(titleText, titleRect)
+        
     for event in pygame.event.get():
         if event.type == pygame.QUIT: running = False
         if event.type == pygame.KEYDOWN:
@@ -66,15 +72,18 @@ while running:
     
 
     for i,teacher in enumerate(teachers):
-        y = 100+100*i
+        y = 200+100*i
         nameText = nameFont.render(teacher['name'], True, (0,0,0))
         nameRect = nameText.get_rect()
         nameRect.topright = (290,y)
-        pygame.draw.rect(window, (99,99,99), nameRect)
+        nameRect.width += 10
+        nameRect.x -= 5
+        pygame.draw.rect(window, (0,255,255), nameRect)
+        nameRect.x += 5
         window.blit(nameText,nameRect)
         votes = 0
         for j, cut in enumerate(teacher['cuts']):
-            x = 300+300*j
+            x = 350+300*j
             percent = cut[1]/max(teacher['votes'],1)
             if button(cut[0]+': '+str(cut[1]),x,y,250,50,
                       ((1-percent)*255,percent*255,0),

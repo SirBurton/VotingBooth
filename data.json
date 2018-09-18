@@ -20,7 +20,7 @@
         0
       ],
       [
-        "Flattop",
+        "Liberty Spikes",
         0
       ]
     ]
@@ -30,7 +30,7 @@
     "votes": 0,
     "cuts": [
       [
-        "Short",
+        "Shoulder Length",
         0
       ],
       [
@@ -38,11 +38,15 @@
         0
       ],
       [
-        "Liberty Spikes",
+        "Princess Leia",
         0
       ],
 	  [
         "Blue Tips",
+        0
+      ],
+	  [
+        "French Braids",
         0
       ]
     ]
@@ -52,23 +56,23 @@
     "votes": 0,
     "cuts": [
       [
+        "Pink",
+        0
+      ],
+      [
         "Blue",
         0
       ],
       [
-        "Green",
+        "Clean Shave",
         0
       ],
       [
-        "Red",
+        "Mustache",
         0
       ],
       [
-        "Black",
-        0
-      ],
-      [
-        "Bleached",
+        "Silver",
         0
       ]
     ]
@@ -78,23 +82,23 @@
     "votes": 0,
     "cuts": [
       [
-        "One",
+        "Pixie",
         0
       ],
       [
-        "Two",
+        "No Bangs",
         0
       ],
       [
-        "Three",
+        "80's",
         0
       ],
       [
-        "Four",
+        "Extensions",
         0
       ],
       [
-        "Five",
+        "Braids",
         0
       ]
     ]
@@ -104,23 +108,23 @@
     "votes": 0,
     "cuts": [
       [
-        "One",
+        "Princess Leia",
         0
       ],
       [
-        "Two",
+        "Rey",
         0
       ],
       [
-        "Three",
+        "Queen Amidala",
         0
       ],
       [
-        "Four",
+        "Pippy Longstocking",
         0
       ],
       [
-        "Five",
+        "Cindy Lou Who",
         0
       ]
     ]
@@ -130,23 +134,23 @@
     "votes": 0,
     "cuts": [
       [
-        "One",
+        "Lightning Bolt",
         0
       ],
       [
-        "Two",
+        "Steps",
         0
       ],
       [
-        "Three",
+        "Turtle",
         0
       ],
       [
-        "Four",
+        "Basketball",
         0
       ],
       [
-        "Five",
+        "AISU Dragon",
         0
       ]
     ]
@@ -156,23 +160,23 @@
     "votes": 0,
     "cuts": [
       [
-        "One",
+        "x",
         0
       ],
       [
-        "Two",
+        "x",
         0
       ],
       [
-        "Three",
+        "x",
         0
       ],
       [
-        "Four",
+        "x",
         0
       ],
       [
-        "Five",
+        "x",
         0
       ]
     ]
@@ -199,32 +203,6 @@
       ],
       [
         "Red",
-        0
-      ]
-    ]
-  },
-  {
-    "name": "Janae Powell",
-    "votes": 0,
-    "cuts": [
-      [
-        "One",
-        0
-      ],
-      [
-        "Two",
-        0
-      ],
-      [
-        "Three",
-        0
-      ],
-      [
-        "Four",
-        0
-      ],
-      [
-        "Five",
         0
       ]
     ]
