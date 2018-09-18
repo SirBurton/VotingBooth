@@ -27,6 +27,7 @@ pygame.display.set_caption('Racer Registration')
 clock = pygame.time.Clock()
 
 textFont  = pygame.font.Font(pygame.font.match_font("courier"),24)
+smallFont  = pygame.font.Font(pygame.font.match_font("courier"),18)
 nameFont  = pygame.font.Font(pygame.font.match_font("Impact"),40)
 titleFont  = pygame.font.Font(pygame.font.match_font("Times New Roman"),64)
 
@@ -46,7 +47,10 @@ def button(text,x,y,w,h,ic,ac):
     else:
         color = ic
     pygame.draw.rect(window, color, [x,y,w,h])
-    textSurf = textFont.render(text, True, (0,0,0))
+    if len(text) < 18:
+        textSurf = textFont.render(text, True, (0,0,0))
+    else:
+        textSurf = smallFont.render(text, True, (0,0,0))
     textRect = textSurf.get_rect()
     textRect.center = (x+(w/2),y+(h/2))
     window.blit(textSurf,textRect)
