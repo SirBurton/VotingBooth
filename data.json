@@ -1,7 +1,7 @@
 [
   {
     "name": "Sir Burton",
-    "votes": 45,
+    "votes": 98,
     "cuts": [
       [
         "Mullet",
@@ -9,7 +9,7 @@
       ],
       [
         "Mowhawk",
-        27
+        30
       ],
       [
         "Macklemore",
@@ -21,13 +21,13 @@
       ],
       [
         "Liberty Spikes",
-        0
+        50
       ]
     ]
   },
   {
     "name": "Jean Sutterfield",
-    "votes": 5,
+    "votes": 55,
     "cuts": [
       [
         "Shoulder Length",
@@ -39,7 +39,7 @@
       ],
       [
         "Princess Leia",
-        0
+        50
       ],
       [
         "Blue Tips",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Trevor Huish",
-    "votes": 17,
+    "votes": 19,
     "cuts": [
       [
         "Pink Hair",
@@ -73,7 +73,7 @@
       ],
       [
         "Mustache",
-        5
+        7
       ]
     ]
   },
@@ -131,7 +131,7 @@
   },
   {
     "name": "Mike Ashton",
-    "votes": 5,
+    "votes": 8,
     "cuts": [
       [
         "Lightning Bolt",
@@ -143,7 +143,7 @@
       ],
       [
         "Turtle",
-        2
+        5
       ],
       [
         "Basketball",
@@ -157,11 +157,11 @@
   },
   {
     "name": "Coach K",
-    "votes": 13,
+    "votes": 15,
     "cuts": [
       [
         "Corn Rows",
-        11
+        12
       ],
       [
         "Dutch Braids",
@@ -169,7 +169,7 @@
       ],
       [
         "Mullet",
-        1
+        2
       ],
       [
         "Green Hair",
