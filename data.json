@@ -1,15 +1,15 @@
 [
   {
     "name": "Sir Burton",
-    "votes": 0,
+    "votes": 45,
     "cuts": [
       [
         "Mullet",
-        0
+        18
       ],
       [
         "Mowhawk",
-        0
+        27
       ],
       [
         "Macklemore",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Jean Sutterfield",
-    "votes": 0,
+    "votes": 5,
     "cuts": [
       [
         "Shoulder Length",
@@ -35,17 +35,17 @@
       ],
       [
         "Curley",
-        0
+        1
       ],
       [
         "Princess Leia",
         0
       ],
-	  [
+      [
         "Blue Tips",
-        0
+        4
       ],
-	  [
+      [
         "French Braids",
         0
       ]
@@ -53,33 +53,33 @@
   },
   {
     "name": "Trevor Huish",
-    "votes": 0,
+    "votes": 17,
     "cuts": [
       [
         "Pink Hair",
-        0
+        2
       ],
       [
         "Silver Hair",
-        0
+        6
       ],
       [
         "Blue Hair",
-        0
+        1
       ],
       [
         "Clean Shave",
-        0
+        3
       ],
       [
         "Mustache",
-        0
+        5
       ]
     ]
   },
   {
     "name": "Serena Cofer",
-    "votes": 0,
+    "votes": 4,
     "cuts": [
       [
         "Pixie",
@@ -95,21 +95,21 @@
       ],
       [
         "Extensions",
-        0
+        3
       ],
       [
         "Braids",
-        0
+        1
       ]
     ]
   },
   {
     "name": "Taylor Bly",
-    "votes": 0,
+    "votes": 6,
     "cuts": [
       [
         "Princess Leia",
-        0
+        1
       ],
       [
         "Rey (Star Wars)",
@@ -125,13 +125,13 @@
       ],
       [
         "Cindy Lou Who",
-        0
+        5
       ]
     ]
   },
   {
     "name": "Mike Ashton",
-    "votes": 0,
+    "votes": 5,
     "cuts": [
       [
         "Lightning Bolt",
@@ -143,7 +143,7 @@
       ],
       [
         "Turtle",
-        0
+        2
       ],
       [
         "Basketball",
@@ -151,39 +151,39 @@
       ],
       [
         "AISU Dragon",
-        0
+        3
       ]
     ]
   },
   {
     "name": "Coach K",
-    "votes": 0,
+    "votes": 13,
     "cuts": [
       [
-        "x",
+        "Corn Rows",
+        11
+      ],
+      [
+        "Dutch Braids",
+        1
+      ],
+      [
+        "Mullet",
+        1
+      ],
+      [
+        "Green Hair",
         0
       ],
       [
-        "x",
-        0
-      ],
-      [
-        "x",
-        0
-      ],
-      [
-        "x",
-        0
-      ],
-      [
-        "x",
+        "Magenta Hair",
         0
       ]
     ]
   },
   {
     "name": "Kasey Aposhian",
-    "votes": 0,
+    "votes": 2,
     "cuts": [
       [
         "Purple",
@@ -191,11 +191,11 @@
       ],
       [
         "Pink",
-        0
+        1
       ],
       [
         "Turquoise",
-        0
+        1
       ],
       [
         "Green",
