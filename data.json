@@ -1,7 +1,7 @@
 [
   {
     "name": "Sir Burton",
-    "votes": 98,
+    "votes": 103,
     "cuts": [
       [
         "Mullet",
@@ -21,13 +21,13 @@
       ],
       [
         "Liberty Spikes",
-        50
+        55
       ]
     ]
   },
   {
     "name": "Jean Sutterfield",
-    "votes": 55,
+    "votes": 56,
     "cuts": [
       [
         "Shoulder Length",
@@ -39,7 +39,7 @@
       ],
       [
         "Princess Leia",
-        50
+        51
       ],
       [
         "Blue Tips",
@@ -53,15 +53,15 @@
   },
   {
     "name": "Trevor Huish",
-    "votes": 19,
+    "votes": 28,
     "cuts": [
       [
         "Pink Hair",
-        2
+        4
       ],
       [
         "Silver Hair",
-        6
+        13
       ],
       [
         "Blue Hair",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Mike Ashton",
-    "votes": 8,
+    "votes": 20,
     "cuts": [
       [
         "Lightning Bolt",
@@ -151,17 +151,17 @@
       ],
       [
         "AISU Dragon",
-        3
+        15
       ]
     ]
   },
   {
     "name": "Coach K",
-    "votes": 15,
+    "votes": 21,
     "cuts": [
       [
         "Corn Rows",
-        12
+        18
       ],
       [
         "Dutch Braids",
