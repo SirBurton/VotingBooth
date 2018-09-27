@@ -63,7 +63,7 @@ while running:
 
     window.fill((0,0,0))
 
-    titleText = titleFont.render('Robotics Haircut/style Fundraiser', True, (255,255,255))
+    titleText = titleFont.render('Robotics Haircut/Style Fundraiser', True, (255,255,255))
     titleRect = titleText.get_rect()
     titleRect.center = (960,52)
     window.blit(titleText, titleRect)
