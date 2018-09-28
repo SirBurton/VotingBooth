@@ -1,7 +1,7 @@
 [
   {
     "name": "Sir Burton",
-    "votes": 132,
+    "votes": 146,
     "cuts": [
       [
         "Mullet",
@@ -9,7 +9,7 @@
       ],
       [
         "Mowhawk",
-        56
+        64
       ],
       [
         "Macklemore",
@@ -21,13 +21,13 @@
       ],
       [
         "Liberty Spikes",
-        55
+        61
       ]
     ]
   },
   {
     "name": "Jean Sutterfield",
-    "votes": 58,
+    "votes": 60,
     "cuts": [
       [
         "Shoulder Length",
@@ -43,7 +43,7 @@
       ],
       [
         "Blue Tips",
-        5
+        7
       ],
       [
         "French Braids",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Taylor Bly",
-    "votes": 16,
+    "votes": 20,
     "cuts": [
       [
         "Princess Leia",
@@ -125,7 +125,7 @@
       ],
       [
         "Cindy Lou Who",
-        15
+        19
       ]
     ]
   },
@@ -157,7 +157,7 @@
   },
   {
     "name": "Coach K",
-    "votes": 25,
+    "votes": 46,
     "cuts": [
       [
         "Corn Rows",
@@ -165,7 +165,7 @@
       ],
       [
         "Dutch Braids",
-        2
+        13
       ],
       [
         "Mullet",
@@ -177,7 +177,7 @@
       ],
       [
         "Magenta Hair",
-        1
+        11
       ]
     ]
   },
